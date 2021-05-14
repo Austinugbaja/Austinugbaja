@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm **Austin Ugbaja**
+# Hi there 👋 , I'm Austin Ugbaja
 
 ## 🎯 Brief Description of Me! 
 ![profile views](https://komarev.com/ghpvc/?username=Austinugbaja&color=blue)
@@ -11,10 +11,8 @@ Among my quality personal traits include: attention to detail, good communicatio
 
 - 🔭 I’m currently working on **amazing projects**;
 - 🌱 I’m currently learning **reactjs**, **vuejs**, **python**, **solidity**;
-- 🤔 I’m open to **internship and being hired to enable me maximize my potential**;
+- 🎓 I’m open to **internship and being hired to enable me maximize my potential**;
 - 💬 Ask me about anything **software related**;
-- 📫 Connect with me on [![Twitter][http://i.imgur.com/tXSoThF.png]][https://twitter.com/codesamurai_];
-- 📧 How to reach me: [Email](augustineugbaja97@gmail.com);
 - ⚡ Fun fact: I love watching **Drama series** a lot 😉 and **football** ⚽
 
 ### 📈 Github Stats:
