@@ -3,8 +3,7 @@
 ## 🎯 Brief Description of Me! 
 ![profile views](https://komarev.com/ghpvc/?username=Austinugbaja&color=blue)
 
-I'm a Front-End Developer in the process of becoming Full-Stack. 
-I enjoy building reusable code for future use and making sure that web pages are fully optimized for best speed and scalability to enhance user's experience.
+I'm a Full Stack Developer that enjoys building reusable code for future use and making sure that web pages are fully optimized for best speed and scalability to enhance user's experience.
 Among my quality personal traits include: attention to detail, good communication and team collaboration, ability to provide workable solutions to solve complex problems.
 
 ### 📁 Learn more about Me:
